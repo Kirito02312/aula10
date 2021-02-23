@@ -11,5 +11,7 @@ numero:string;
   uf: any;
  
   erro:boolean = false;
+  localidade: any;
 }
 
+wqeqweqwe
